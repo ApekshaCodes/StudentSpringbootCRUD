@@ -87,4 +87,4 @@ User Registration is licensed under <a href="LICENSE">The MIT License (MIT)</a>.
 Developed by<br>
 Apeksha Pathak<br>
 collaboratewithapeksha@gmail.com<br>
-http://danilomeneghel.github.io/<br>
+[https://github.com/ApekshaTechJourney/]<br>
